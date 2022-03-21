@@ -42,3 +42,6 @@ Step 3) For i, j = 2, 3, …,n compute the following
 Step 4) //Solve the system Lz = b by forward substitution
 Step 5) //Solve the system Ux = z by backward substitution
 Step 6) Print x1, x2, …, xn as solution.
+
+https://colab.research.google.com/drive/1r1S7T3P7d7eU1hypaSl58KtoAMHRvJjM#scrollTo=EKx_hVmJIvmm
+
